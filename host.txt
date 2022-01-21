@@ -33,6 +33,10 @@ cdn.discordapp.com/attachments/910199503833923627/911293371786616902/Androidupda
 101.37.69.176
 svchost.azureedge.net
 20.58.189.145
+20.51.217.113
+microsoft.office.online-templates.net
+verify-wallet.info
+
 194.15.115.60
 1.117.30.43
 34.96.230.173
@@ -332,3 +336,4 @@ focused-benz.190-115-18-183.plesk.page
 nets1ntn.web.app
 baravazna.com
 179.43.176.120
+193.201.9.212
