@@ -424,3 +424,4 @@ agentlcoinbase-mining.com
 124.71.215.241
 xionoll.com
 proxy1.cdnstaticjs.com
+(\.|^)nude-photo\.giize\.com$
