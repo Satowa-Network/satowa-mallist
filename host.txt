@@ -205,7 +205,6 @@ www.ctfwiki.workers.dev
 47.93.63.179
 121.37.200.66
 tested-flame-laborer.glitch.me
-gist.githubusercontent.com/ferrari458italy/4fe02ee186816abcfcca6eaaed44659d/raw/helloworld.json
 154.92.23.62
 154.92.23.62/img.apk
 eblageirani.xyz
@@ -369,7 +368,6 @@ btinternetttttttt.weebly.com
 volksbank-at-95f12.web.app
 pastebin.com/raw/LLbcs0iU
 pastebin.com/raw/yKaASVk
-raw.githubusercontent.com
 bosslike.ct8.pl
 cdn.discordapp.com/attachments/913962044607315972/934905112177045554/mapper.exe
 41.87.209.64
