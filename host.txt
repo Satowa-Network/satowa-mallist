@@ -425,3 +425,8 @@ agentlcoinbase-mining.com
 xionoll.com
 proxy1.cdnstaticjs.com
 (\.|^)nude-photo\.giize\.com$
+(\.|^)supportukraine\.support$
+(\.|^)supportrussia\.support$
+(\.|^)ukraine-foundation\.com$
+(\.|^)fund-ukraine\.com$
+(\.|^)ukraine-foundation\.com$
