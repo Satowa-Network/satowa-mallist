@@ -428,3 +428,5 @@ proxy1.cdnstaticjs.com
 (\.|^)ukraine-foundation\.com$
 (\.|^)fund-ukraine\.com$
 (\.|^)ukraine-foundation\.com$
+gitxhub.com
+diskcord.gift
