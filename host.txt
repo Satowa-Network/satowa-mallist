@@ -430,3 +430,4 @@ proxy1.cdnstaticjs.com
 (\.|^)ukraine-foundation\.com$
 gitxhub.com
 diskcord.gift
+yummy.haus
